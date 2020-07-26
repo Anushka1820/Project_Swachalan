@@ -12,7 +12,7 @@ Electrical appliances for interfacing
 
 The unique element about this project is that the implementation of this would hardly cost anything. It efficienty eliminates the detection of any other unwanted similar objects. The code written to develop this project is very simple that can be understood any beginner easily. The bonus factor is that it is highly energy efficient. :)
 
-To Run/Implement this project you simply need to have Python 2 versions installed in your systems as OpenCV library is compatible with this version of python. If you wish to run this in Python3 , make sure you have version 3.4 or later to get the compatibility of OpenCV. Install Arduino IDE and set the baud rate to 9600. Interface your camera system and appliances and you are good to go!!
+To Run/Implement this project you simply need to have Python 2 versions installed in your systems as OpenCV library is compatible with this version of python. If you wish to run this in Python3 , make sure you have version 3.4 or later to get the compatibility of OpenCV. Install Arduino IDE and set the baud rate to 9600. Make sure the port numbers and COM port of your system and Arduino board match. Interface your camera system and appliances and you are good to go!!
 
 Thank You
 
