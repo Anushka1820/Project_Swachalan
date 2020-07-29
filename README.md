@@ -5,9 +5,9 @@ Swachalan focuses on automating electric appliances in a small room to big corpo
 ![](images/Screenshot%20(144).png)
 
 Tools and hardwares used are:
-open CV2 library of python 2.7
-Arduino IDE
-Camera system
+open CV2 library of python 2.7,
+Arduino IDE,
+Camera system,
 Electrical appliances for interfacing
 
 The unique element about this project is that the implementation of this would hardly cost anything. It efficienty eliminates the detection of any other unwanted similar objects. The code written to develop this project is very simple that can be understood any beginner easily. The bonus factor is that it is highly energy efficient. :)
